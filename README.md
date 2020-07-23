@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 
 
 ![Nishant Kumar github stats]
-(https://github-readme-stats.vercel.app/api?username=/nishantdev365)
+(https://github-readme-stats.vercel.app/api?username=/nishantdev365&show_icons=true&theme=tokyonight)
 
-![Nishant Kumar github stats]
-(https://github-readme-stats.vercel.app/api?username=/nishantdev365&show_icons=true)
 
 
