@@ -12,3 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... 
 -->
 
+
+![Nishant Kumar github stats]
+(https://github-readme-stats.vercel.app/api?username=/nishantdev365)
+
+![Nishant Kumar github stats]
+(https://github-readme-stats.vercel.app/api?username=/nishantdev365&show_icons=true)
+
+
