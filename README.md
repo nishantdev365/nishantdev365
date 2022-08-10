@@ -5,7 +5,7 @@ I am Nishant Kumar 🙋🏻‍♂️, Front End Architect, Web Developer Evangel
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Web project
-- 🌱 I’m currently learning ... React.js
+- 🌱 I’m currently learning ... Blockchain and Web 3.0 Technology
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ... he/him
 - 💬 Ask me about ... Anything 
