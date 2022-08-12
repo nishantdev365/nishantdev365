@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/nishantdev365">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishantdev365&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantdev3658&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantdev365&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="nishantdev365.github.io/portfolio-v2/"><img alt="Website" src="https://img.shields.io/badge/Website-nishantdev365.github.io/portfolio-v2/-blue?style=flat-square&logo=google-chrome"></a>
+<a href=""><img alt="Website" src="https://img.shields.io/badge/Website-nishantdev365.github.io/portfolio-v2/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/nishant-kumar322/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nishant%20Kumar-blue?style=flat-square&logo=linkedin"></a>
 <a href="#"><img alt="Instagram" src="https://img.shields.io/badge/Instagram--blue?style=flat-square&logo=instagram"></a>
 <a href="#"><img alt="Email" src="https://img.shields.io/badge/Email-nishantk322@gmail.com-blue?style=flat-square&logo=gmail"></a>
