@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href=""><img alt="#" src="https://img.shields.io/badge/Website-https://nishantdev365.github.io/Portfolio-v2/-blue?style=flat-square&logo=google-chrome"></a>
+<!-- <a href=""><img alt="#" src="https://img.shields.io/badge/Website-https://nishantdev365.github.io/Portfolio-v2/-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/nishant-kumar322/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nishant%20Kumar-blue?style=flat-square&logo=linkedin"></a>
 <a href="#"><img alt="Instagram" src="https://img.shields.io/badge/Instagram--blue?style=flat-square&logo=instagram"></a>
 <a href="#"><img alt="Email" src="https://img.shields.io/badge/Email-nishantk322@gmail.com-blue?style=flat-square&logo=gmail"></a>
